@@ -16,6 +16,7 @@ sudo apt-get install chromium-browser</br>
 That’s it! You are all set.</br>
 Now write your code in python in your idle/notebook which is give above.</br>
 Keep your mobile phone with you. Choose whatsapp web from the top bar in whatsapp(3 dots)</br>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot_2016-11-25-14-52-30-483_com.whatsapp.png">
 Then Run the script ( make sure that you have added the absolute path for chromedriver and have replaced target variable with your friends name ). Scan the QR code that appears on the screen and enjoy the power of python!</br>
 <b>Please use this script only for educational purposes, i am not responsible if your friends ( or even Whatsapp ) block you.</b></br>
 Feel free to modify the code. Try to :</br>
