@@ -14,7 +14,7 @@ If you get stuck somewhere, Don't forget to ping me</br>
 <b>3) Chromium Web Browser( Open source version of chrome browser )</b></br>
 sudo apt-get install chromium-browser</br>
 That’s it! You are all set.</br>
-<img src="https://github.com/imbalram/whatsapp/blob/master/Screenshot%20(451).png"  width="500" height="400"></br>
+<a href="https://github.com/imbalram/whatsapp/blob/master/whatshappauto.ipynb"><img src="https://github.com/imbalram/whatsapp/blob/master/Screenshot%20(451).png"  width="500" height="400"></a></br>
 Now write your code in python in your idle/notebook which is give above.</br>
 Keep your mobile phone with you. Choose whatsapp web from the top bar in whatsapp(3 dots)</br>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot_2016-11-25-14-52-30-483_com.whatsapp.png" alt="Screenshot2" width="169" height="300" class="alignnone size-medium wp-image-150753"></br>
