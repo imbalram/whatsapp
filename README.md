@@ -8,7 +8,7 @@ Have you ever wished to automatically wish your friends on their birthdays, or s
 <b>1) Python Bindings for Selenium ( Browser Automation software )</b></br>
 pip install selenium</br>
 <b>2) Chrome webdriver</b></br>
-Download Chrome driver from here: <a href="https://chromedriver.storage.googleapis.com/index.html?path=2.25/>"Chromedriver download page</a>( choose your specific version )</br>
+Download Chrome driver from here: <a href="https://chromedriver.storage.googleapis.com/index.html?path=2.25/">Chromedriver download page</a>( choose your specific version )</br>
 Extract it in a known location , as we need the location later</br>
 If you get stuck somewhere, Don't forget to ping me</br>
 <b>3) Chromium Web Browser( Open source version of chrome browser )</b></br>
