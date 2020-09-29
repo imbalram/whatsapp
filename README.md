@@ -1,7 +1,7 @@
 # whatsapp Automation with python and selenium
 <html>
   <body>
-    <h1><p><font text-color=185454>Whatsapp using Python!
+    <p><font text-color=185454>Whatsapp using Python!
 Last Updated: 16-07-2020
 Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend ( or any Whastapp contact! ) automatically at a pre-set time, or send your friends by sending thousands of random text on whatsapp! Using Browser Automation you can do all of it and much more!
      </br>First you must install these:-</br>
@@ -26,7 +26,7 @@ Feel free to modify the code. Try to :</br>
 
 
 
-</font></p></h1>
+</font></p>
   
   
   </body></html>
